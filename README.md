@@ -132,4 +132,4 @@ This project is licensed under the MIT License.
 **Omer Wafaey**
 
 - GitHub: [OmerWafaey](https://github.com/OmerWafaey)
-- Email: [omerwafaey14@gmail.com](mailto:omerwafaey14@gmail.com)
+- Email: [omerwafaey@gmail.com](mailto:omerwafaey14@gmail.com)
